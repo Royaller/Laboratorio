@@ -1,5 +1,5 @@
 # Laboratorio
-Trabalho sobre fila com prioridade pra faculdade feito em Java no Eclipse, descrição:
+Trabalho sobre fila de prioridades feito em Java no Eclipse, descrição:
 
 SITUAÇÃO PROBLEMA: O laboratório de análises clínicas "MAIS SAÚDE" deseja que o atendimento aos pacientes que chegam para realizar exames seja informatizado. Para isso, contratou o seu grupo para fornecer uma solução tecnológica visando a melhoria da triagem de pacientes.
 
